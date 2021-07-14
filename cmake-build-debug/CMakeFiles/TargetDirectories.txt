@@ -1,0 +1,8 @@
+/Users/silence/CLionProjects/Algorithm4CPPImplementation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/silence/CLionProjects/Algorithm4CPPImplementation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/silence/CLionProjects/Algorithm4CPPImplementation/cmake-build-debug/CMakeFiles/CArrayOperator_test.dir
+/Users/silence/CLionProjects/Algorithm4CPPImplementation/cmake-build-debug/CMakeFiles/BinaySearch_test.dir
+/Users/silence/CLionProjects/Algorithm4CPPImplementation/cmake-build-debug/CMakeFiles/Algorithm4CPPImplementation.dir
+/Users/silence/CLionProjects/Algorithm4CPPImplementation/cmake-build-debug/CMakeFiles/Soundex_test.dir
+/Users/silence/CLionProjects/Algorithm4CPPImplementation/cmake-build-debug/CMakeFiles/test.dir
+/Users/silence/CLionProjects/Algorithm4CPPImplementation/cmake-build-debug/CMakeFiles/Numeric_test.dir

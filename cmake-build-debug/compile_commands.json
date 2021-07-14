@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/Users/silence/CLionProjects/Algorithm4CPPImplementation/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/CArrayOperator_test.dir/Algorithm4Project/CArrayOperator/CArrayOperatorTest.cpp.o -c /Users/silence/CLionProjects/Algorithm4CPPImplementation/Algorithm4Project/CArrayOperator/CArrayOperatorTest.cpp",
+  "file": "/Users/silence/CLionProjects/Algorithm4CPPImplementation/Algorithm4Project/CArrayOperator/CArrayOperatorTest.cpp"
+},
+{
+  "directory": "/Users/silence/CLionProjects/Algorithm4CPPImplementation/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/BinaySearch_test.dir/Algorithm4Project/Searching/BinarySearch/BianrySearchTest.cpp.o -c /Users/silence/CLionProjects/Algorithm4CPPImplementation/Algorithm4Project/Searching/BinarySearch/BianrySearchTest.cpp",
+  "file": "/Users/silence/CLionProjects/Algorithm4CPPImplementation/Algorithm4Project/Searching/BinarySearch/BianrySearchTest.cpp"
+},
+{
+  "directory": "/Users/silence/CLionProjects/Algorithm4CPPImplementation/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/Algorithm4CPPImplementation.dir/main.cpp.o -c /Users/silence/CLionProjects/Algorithm4CPPImplementation/main.cpp",
+  "file": "/Users/silence/CLionProjects/Algorithm4CPPImplementation/main.cpp"
+},
+{
+  "directory": "/Users/silence/CLionProjects/Algorithm4CPPImplementation/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/Soundex_test.dir/UnitTestExample_Class/SoundexTest.cpp.o -c /Users/silence/CLionProjects/Algorithm4CPPImplementation/UnitTestExample_Class/SoundexTest.cpp",
+  "file": "/Users/silence/CLionProjects/Algorithm4CPPImplementation/UnitTestExample_Class/SoundexTest.cpp"
+},
+{
+  "directory": "/Users/silence/CLionProjects/Algorithm4CPPImplementation/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/test.dir/UnitTestExample_Fun/sample1.cpp.o -c /Users/silence/CLionProjects/Algorithm4CPPImplementation/UnitTestExample_Fun/sample1.cpp",
+  "file": "/Users/silence/CLionProjects/Algorithm4CPPImplementation/UnitTestExample_Fun/sample1.cpp"
+},
+{
+  "directory": "/Users/silence/CLionProjects/Algorithm4CPPImplementation/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/test.dir/UnitTestExample_Fun/sample1_unittest.cpp.o -c /Users/silence/CLionProjects/Algorithm4CPPImplementation/UnitTestExample_Fun/sample1_unittest.cpp",
+  "file": "/Users/silence/CLionProjects/Algorithm4CPPImplementation/UnitTestExample_Fun/sample1_unittest.cpp"
+},
+{
+  "directory": "/Users/silence/CLionProjects/Algorithm4CPPImplementation/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/Numeric_test.dir/Algorithm4Project/Numeric/NumericTest.cpp.o -c /Users/silence/CLionProjects/Algorithm4CPPImplementation/Algorithm4Project/Numeric/NumericTest.cpp",
+  "file": "/Users/silence/CLionProjects/Algorithm4CPPImplementation/Algorithm4Project/Numeric/NumericTest.cpp"
+}
+]
